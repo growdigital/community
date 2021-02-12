@@ -1,2 +1,3 @@
-# community-forest-garden
+# Community
+
 Resources for Community Forest Gardens
